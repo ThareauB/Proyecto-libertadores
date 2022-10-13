@@ -1,0 +1,8 @@
+barcelona 92
+atlanta 96
+sidney 00
+atenas 04
+pekin 08
+londres 12
+rio 16
+tokyo 20
