@@ -6,7 +6,7 @@ Repositorio de grupo para Proyecto Introducción a Ciencias de Datos 2022-2
 * Eduardo Pavez
 * Matías Pineda
 * Benjamín Thareau
-
+*
 
 
 
