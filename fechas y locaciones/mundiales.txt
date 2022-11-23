@@ -1,9 +1,0 @@
-italia 90
-usa 94
-francia 98
-korea del sur-japon 02
-alemania 06
-sud africa 10
-brazil 14
-rusia 18
-qatar 22
