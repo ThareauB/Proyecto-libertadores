@@ -1,1 +1,0 @@
-LISTA_RONDAS = ["Final", "Final", "Semifinal", "Semifinal", "Cuartos", "Cuartos", "Octavos", "Octavos"]
